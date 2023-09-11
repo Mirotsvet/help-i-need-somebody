@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int ftemp; // температура по Фаренгейту
+    int ftemp; // Температура по Фаренгейту.
     cout << "Enter temperature value in Fahrenheit: ";
     cin >> ftemp;
     
