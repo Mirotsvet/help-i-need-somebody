@@ -7,7 +7,7 @@ int main() {
     cin >> ftemp;
     
     int ctemp = (ftemp - 32) * 5 / 9; // Выдаёт в ответе значение "-17", если на вход от пользователя поступила строка. Вне зависимости от длины строки.
-    cout << "Temperature in Celcius: " << ctemp << '\n';
+    cout << "Temperature in Celsius: " << ctemp << '\n';
 
     return 0;
 }
